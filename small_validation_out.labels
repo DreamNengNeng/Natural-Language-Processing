@@ -1,0 +1,2000 @@
+epoch=1 crossentropy(validation): 232.15610293529838
+
+epoch=1 crossentropy(validation): 232.45032834366796
+
+epoch=1 crossentropy(validation): 231.92940047693074
+
+epoch=1 crossentropy(validation): 231.6277234124301
+
+epoch=1 crossentropy(validation): 231.52630068455875
+
+epoch=1 crossentropy(validation): 231.4926754946257
+
+epoch=1 crossentropy(validation): 231.72290934731677
+
+epoch=1 crossentropy(validation): 232.06438366202178
+
+epoch=1 crossentropy(validation): 232.82429856969256
+
+epoch=1 crossentropy(validation): 233.6516359363348
+
+epoch=1 crossentropy(validation): 232.87813572758233
+
+epoch=1 crossentropy(validation): 233.0049014193841
+
+epoch=1 crossentropy(validation): 233.2718915610028
+
+epoch=1 crossentropy(validation): 233.16961279255148
+
+epoch=1 crossentropy(validation): 233.35838916748133
+
+epoch=1 crossentropy(validation): 233.0867007818531
+
+epoch=1 crossentropy(validation): 232.91341651734984
+
+epoch=1 crossentropy(validation): 233.1317650562143
+
+epoch=1 crossentropy(validation): 233.090556788571
+
+epoch=1 crossentropy(validation): 233.3727068483585
+
+epoch=1 crossentropy(validation): 233.59144346921005
+
+epoch=1 crossentropy(validation): 233.6737267302193
+
+epoch=1 crossentropy(validation): 234.04023184027474
+
+epoch=1 crossentropy(validation): 234.45154365233597
+
+epoch=1 crossentropy(validation): 234.2213671220564
+
+epoch=1 crossentropy(validation): 234.59917221766227
+
+epoch=1 crossentropy(validation): 234.6495939757222
+
+epoch=1 crossentropy(validation): 234.91955464284283
+
+epoch=1 crossentropy(validation): 235.35728833627087
+
+epoch=1 crossentropy(validation): 235.36318816311115
+
+epoch=1 crossentropy(validation): 235.26115323219355
+
+epoch=1 crossentropy(validation): 235.3465873785356
+
+epoch=1 crossentropy(validation): 235.47959558571097
+
+epoch=1 crossentropy(validation): 235.58971976123092
+
+epoch=1 crossentropy(validation): 235.39868080424682
+
+epoch=1 crossentropy(validation): 235.31367196595681
+
+epoch=1 crossentropy(validation): 235.23341765356273
+
+epoch=1 crossentropy(validation): 235.46322804196953
+
+epoch=1 crossentropy(validation): 235.5434224266753
+
+epoch=1 crossentropy(validation): 235.59857081992578
+
+epoch=1 crossentropy(validation): 235.754863954902
+
+epoch=1 crossentropy(validation): 235.90777848622318
+
+epoch=1 crossentropy(validation): 236.13079956716604
+
+epoch=1 crossentropy(validation): 235.6594772287898
+
+epoch=1 crossentropy(validation): 235.31911021929682
+
+epoch=1 crossentropy(validation): 235.4598776168054
+
+epoch=1 crossentropy(validation): 235.60704953750923
+
+epoch=1 crossentropy(validation): 235.73253633941488
+
+epoch=1 crossentropy(validation): 234.9673152824247
+
+epoch=1 crossentropy(validation): 235.06965123408304
+
+epoch=1 crossentropy(validation): 235.1905841119558
+
+epoch=1 crossentropy(validation): 235.22715451414422
+
+epoch=1 crossentropy(validation): 234.7605600834405
+
+epoch=1 crossentropy(validation): 234.88313758240855
+
+epoch=1 crossentropy(validation): 234.96669789677716
+
+epoch=1 crossentropy(validation): 234.6843944593968
+
+epoch=1 crossentropy(validation): 234.76864146764933
+
+epoch=1 crossentropy(validation): 234.86982318584833
+
+epoch=1 crossentropy(validation): 234.8005357486062
+
+epoch=1 crossentropy(validation): 234.81909096633038
+
+epoch=1 crossentropy(validation): 234.91698022831253
+
+epoch=1 crossentropy(validation): 234.66541543630225
+
+epoch=1 crossentropy(validation): 234.77952390624176
+
+epoch=1 crossentropy(validation): 234.47315180373258
+
+epoch=1 crossentropy(validation): 234.38274448494383
+
+epoch=1 crossentropy(validation): 234.31872784047832
+
+epoch=1 crossentropy(validation): 234.2689843232404
+
+epoch=1 crossentropy(validation): 234.3367112811792
+
+epoch=1 crossentropy(validation): 234.4492309162483
+
+epoch=1 crossentropy(validation): 234.54036295713115
+
+epoch=1 crossentropy(validation): 234.55681471888275
+
+epoch=1 crossentropy(validation): 234.58789608849466
+
+epoch=1 crossentropy(validation): 234.6586483528442
+
+epoch=1 crossentropy(validation): 234.6667694555298
+
+epoch=1 crossentropy(validation): 234.4476845710777
+
+epoch=1 crossentropy(validation): 234.4949611747143
+
+epoch=1 crossentropy(validation): 234.56988074922936
+
+epoch=1 crossentropy(validation): 234.65523777927814
+
+epoch=1 crossentropy(validation): 234.7478259047643
+
+epoch=1 crossentropy(validation): 234.74460651477963
+
+epoch=1 crossentropy(validation): 234.7574697802057
+
+epoch=1 crossentropy(validation): 234.85161042823907
+
+epoch=1 crossentropy(validation): 234.9435321611759
+
+epoch=1 crossentropy(validation): 234.96805318218202
+
+epoch=1 crossentropy(validation): 234.77828167254248
+
+epoch=1 crossentropy(validation): 234.81502717689082
+
+epoch=1 crossentropy(validation): 234.915070715683
+
+epoch=1 crossentropy(validation): 235.022146105387
+
+epoch=1 crossentropy(validation): 234.93017587985244
+
+epoch=1 crossentropy(validation): 235.0761306545929
+
+epoch=1 crossentropy(validation): 235.20037253368974
+
+epoch=1 crossentropy(validation): 235.33058760235795
+
+epoch=1 crossentropy(validation): 235.4543979589881
+
+epoch=1 crossentropy(validation): 235.58937523182317
+
+epoch=1 crossentropy(validation): 235.57701619013972
+
+epoch=1 crossentropy(validation): 235.89655933777226
+
+epoch=1 crossentropy(validation): 235.86865685943013
+
+epoch=1 crossentropy(validation): 235.92742088157428
+
+epoch=1 crossentropy(validation): 235.9892339567982
+
+epoch=1 crossentropy(validation): 236.26388309082736
+
+epoch=1 crossentropy(validation): 236.01456031323247
+
+epoch=1 crossentropy(validation): 235.478895956351
+
+epoch=1 crossentropy(validation): 235.3908550797373
+
+epoch=1 crossentropy(validation): 235.42791888774843
+
+epoch=1 crossentropy(validation): 235.4886059146893
+
+epoch=1 crossentropy(validation): 235.24665979458644
+
+epoch=1 crossentropy(validation): 235.35515492855527
+
+epoch=1 crossentropy(validation): 235.46637866253099
+
+epoch=1 crossentropy(validation): 235.29952605460144
+
+epoch=1 crossentropy(validation): 235.41881535192408
+
+epoch=1 crossentropy(validation): 235.16085740338804
+
+epoch=1 crossentropy(validation): 235.21344465030887
+
+epoch=1 crossentropy(validation): 235.05758084037615
+
+epoch=1 crossentropy(validation): 234.94523208292824
+
+epoch=1 crossentropy(validation): 234.7159385976335
+
+epoch=1 crossentropy(validation): 234.81990728741724
+
+epoch=1 crossentropy(validation): 234.7538448357294
+
+epoch=1 crossentropy(validation): 234.56610058937275
+
+epoch=1 crossentropy(validation): 234.62168467864882
+
+epoch=1 crossentropy(validation): 234.77352840086976
+
+epoch=1 crossentropy(validation): 234.83211966703195
+
+epoch=1 crossentropy(validation): 234.7034146246212
+
+epoch=1 crossentropy(validation): 234.5900762771896
+
+epoch=1 crossentropy(validation): 234.72376889837594
+
+epoch=1 crossentropy(validation): 234.81878404751453
+
+epoch=1 crossentropy(validation): 234.76479652764436
+
+epoch=1 crossentropy(validation): 234.9303644496456
+
+epoch=1 crossentropy(validation): 234.86797095096463
+
+epoch=1 crossentropy(validation): 234.71821338520135
+
+epoch=1 crossentropy(validation): 234.7132840505471
+
+epoch=1 crossentropy(validation): 234.86496885244932
+
+epoch=1 crossentropy(validation): 234.63687276205914
+
+epoch=1 crossentropy(validation): 234.8093718723566
+
+epoch=1 crossentropy(validation): 235.0092687082422
+
+epoch=1 crossentropy(validation): 235.39815922101553
+
+epoch=1 crossentropy(validation): 235.0208886695349
+
+epoch=1 crossentropy(validation): 235.06342785150343
+
+epoch=1 crossentropy(validation): 234.46219471296956
+
+epoch=1 crossentropy(validation): 234.70294938930908
+
+epoch=1 crossentropy(validation): 234.93294023352755
+
+epoch=1 crossentropy(validation): 234.85489871674258
+
+epoch=1 crossentropy(validation): 234.8800899596403
+
+epoch=1 crossentropy(validation): 234.99613635988243
+
+epoch=1 crossentropy(validation): 235.03943172131213
+
+epoch=1 crossentropy(validation): 235.3211093587401
+
+epoch=1 crossentropy(validation): 235.33744481293525
+
+epoch=1 crossentropy(validation): 235.40310379536527
+
+epoch=1 crossentropy(validation): 235.33238495599704
+
+epoch=1 crossentropy(validation): 235.51077129903786
+
+epoch=1 crossentropy(validation): 235.88181902285748
+
+epoch=1 crossentropy(validation): 235.59670206303335
+
+epoch=1 crossentropy(validation): 235.43631728661802
+
+epoch=1 crossentropy(validation): 235.72033329964427
+
+epoch=1 crossentropy(validation): 235.51643504615487
+
+epoch=1 crossentropy(validation): 235.30886797807918
+
+epoch=1 crossentropy(validation): 235.29112478772575
+
+epoch=1 crossentropy(validation): 235.8090690928797
+
+epoch=1 crossentropy(validation): 235.6868310276076
+
+epoch=1 crossentropy(validation): 235.34508370062326
+
+epoch=1 crossentropy(validation): 235.52364654083703
+
+epoch=1 crossentropy(validation): 235.20118289821724
+
+epoch=1 crossentropy(validation): 235.119159601509
+
+epoch=1 crossentropy(validation): 235.01880153297364
+
+epoch=1 crossentropy(validation): 234.76564971965632
+
+epoch=1 crossentropy(validation): 234.80126938203196
+
+epoch=1 crossentropy(validation): 234.77314829111046
+
+epoch=1 crossentropy(validation): 234.76026183002799
+
+epoch=1 crossentropy(validation): 234.94025746087883
+
+epoch=1 crossentropy(validation): 234.69367028255874
+
+epoch=1 crossentropy(validation): 234.69727850375182
+
+epoch=1 crossentropy(validation): 234.65439015921012
+
+epoch=1 crossentropy(validation): 234.77197313787613
+
+epoch=1 crossentropy(validation): 234.72726695127054
+
+epoch=1 crossentropy(validation): 234.96242174024377
+
+epoch=1 crossentropy(validation): 234.81450749245008
+
+epoch=1 crossentropy(validation): 235.01786127550818
+
+epoch=1 crossentropy(validation): 235.00857652690726
+
+epoch=1 crossentropy(validation): 234.5505308841047
+
+epoch=1 crossentropy(validation): 234.48271684557528
+
+epoch=1 crossentropy(validation): 234.51001611546883
+
+epoch=1 crossentropy(validation): 234.8953625268536
+
+epoch=1 crossentropy(validation): 235.6533201654207
+
+epoch=1 crossentropy(validation): 235.36749913966355
+
+epoch=1 crossentropy(validation): 235.3537021914656
+
+epoch=1 crossentropy(validation): 235.38664756443382
+
+epoch=1 crossentropy(validation): 235.28147940727573
+
+epoch=1 crossentropy(validation): 235.52316485514703
+
+epoch=1 crossentropy(validation): 235.3720237007645
+
+epoch=1 crossentropy(validation): 235.5125856470201
+
+epoch=1 crossentropy(validation): 235.4502529798599
+
+epoch=1 crossentropy(validation): 235.52240005252798
+
+epoch=1 crossentropy(validation): 234.8615589240739
+
+epoch=1 crossentropy(validation): 234.74595105513995
+
+epoch=1 crossentropy(validation): 234.93960749749166
+
+epoch=1 crossentropy(validation): 234.79172618460177
+
+epoch=1 crossentropy(validation): 234.72886621762726
+
+epoch=1 crossentropy(validation): 234.8437828822532
+
+epoch=1 crossentropy(validation): 235.55710965062852
+
+epoch=1 crossentropy(validation): 235.74833660652595
+
+epoch=1 crossentropy(validation): 235.77316904865867
+
+epoch=1 crossentropy(validation): 235.90044803835272
+
+epoch=1 crossentropy(validation): 235.8409540995377
+
+epoch=1 crossentropy(validation): 235.9329625324385
+
+epoch=1 crossentropy(validation): 236.32303212773473
+
+epoch=1 crossentropy(validation): 236.1712471832683
+
+epoch=1 crossentropy(validation): 235.9599507283932
+
+epoch=1 crossentropy(validation): 236.1528850688587
+
+epoch=1 crossentropy(validation): 236.17432569234938
+
+epoch=1 crossentropy(validation): 236.12200247478816
+
+epoch=1 crossentropy(validation): 236.7382041601262
+
+epoch=1 crossentropy(validation): 236.70338038312818
+
+epoch=1 crossentropy(validation): 237.46794373257183
+
+epoch=1 crossentropy(validation): 237.26185414706285
+
+epoch=1 crossentropy(validation): 237.02283520925099
+
+epoch=1 crossentropy(validation): 237.38585744830235
+
+epoch=1 crossentropy(validation): 237.48617321463115
+
+epoch=1 crossentropy(validation): 236.97271255945765
+
+epoch=1 crossentropy(validation): 238.49469635923091
+
+epoch=1 crossentropy(validation): 238.72566539572819
+
+epoch=1 crossentropy(validation): 240.2453268318008
+
+epoch=1 crossentropy(validation): 239.34818327490882
+
+epoch=1 crossentropy(validation): 239.07670459557463
+
+epoch=1 crossentropy(validation): 237.770253769586
+
+epoch=1 crossentropy(validation): 237.80946944540227
+
+epoch=1 crossentropy(validation): 238.03872405042966
+
+epoch=1 crossentropy(validation): 239.0994144674046
+
+epoch=1 crossentropy(validation): 238.994781261339
+
+epoch=1 crossentropy(validation): 239.84105232106089
+
+epoch=1 crossentropy(validation): 239.8054380995522
+
+epoch=1 crossentropy(validation): 239.77907315548765
+
+epoch=1 crossentropy(validation): 239.60321954998943
+
+epoch=1 crossentropy(validation): 238.94620815162205
+
+epoch=1 crossentropy(validation): 238.5778537325904
+
+epoch=1 crossentropy(validation): 239.29158255200656
+
+epoch=1 crossentropy(validation): 240.89631078971547
+
+epoch=1 crossentropy(validation): 240.63006310249642
+
+epoch=1 crossentropy(validation): 240.85277910126936
+
+epoch=1 crossentropy(validation): 240.39630715380918
+
+epoch=1 crossentropy(validation): 241.35273445245747
+
+epoch=1 crossentropy(validation): 242.33289117129257
+
+epoch=1 crossentropy(validation): 242.2073887129206
+
+epoch=1 crossentropy(validation): 242.92608584886406
+
+epoch=1 crossentropy(validation): 243.11214981385103
+
+epoch=1 crossentropy(validation): 243.08957088968825
+
+epoch=1 crossentropy(validation): 243.10923753182576
+
+epoch=1 crossentropy(validation): 241.57990693462645
+
+epoch=1 crossentropy(validation): 240.7202693029185
+
+epoch=1 crossentropy(validation): 241.7181000422847
+
+epoch=1 crossentropy(validation): 242.9210106180473
+
+epoch=1 crossentropy(validation): 243.07700648179653
+
+epoch=1 crossentropy(validation): 244.7262380404389
+
+epoch=1 crossentropy(validation): 245.93879612667
+
+epoch=1 crossentropy(validation): 245.81802656320045
+
+epoch=1 crossentropy(validation): 245.51867494594663
+
+epoch=1 crossentropy(validation): 245.55072677999587
+
+epoch=1 crossentropy(validation): 246.29292661709533
+
+epoch=1 crossentropy(validation): 245.6522110198838
+
+epoch=1 crossentropy(validation): 247.514038103339
+
+epoch=1 crossentropy(validation): 247.63450611845914
+
+epoch=1 crossentropy(validation): 246.3131776949457
+
+epoch=1 crossentropy(validation): 245.77374687862505
+
+epoch=1 crossentropy(validation): 245.83714373242833
+
+epoch=1 crossentropy(validation): 245.69639084488998
+
+epoch=1 crossentropy(validation): 245.88004860417215
+
+epoch=1 crossentropy(validation): 245.57491227079356
+
+epoch=1 crossentropy(validation): 245.1068328762121
+
+epoch=1 crossentropy(validation): 245.22472705702148
+
+epoch=1 crossentropy(validation): 245.78751792357775
+
+epoch=1 crossentropy(validation): 245.67857735007732
+
+epoch=1 crossentropy(validation): 245.24286128471354
+
+epoch=1 crossentropy(validation): 245.2922036483049
+
+epoch=1 crossentropy(validation): 245.21676030990034
+
+epoch=1 crossentropy(validation): 246.49216361524924
+
+epoch=1 crossentropy(validation): 245.98052478077662
+
+epoch=1 crossentropy(validation): 246.64160983605757
+
+epoch=1 crossentropy(validation): 246.53815805633786
+
+epoch=1 crossentropy(validation): 246.58451178680846
+
+epoch=1 crossentropy(validation): 244.07837763076142
+
+epoch=1 crossentropy(validation): 244.2823147667255
+
+epoch=1 crossentropy(validation): 244.2285709035805
+
+epoch=1 crossentropy(validation): 244.2605459038545
+
+epoch=1 crossentropy(validation): 244.22351237825995
+
+epoch=1 crossentropy(validation): 244.86802217337438
+
+epoch=1 crossentropy(validation): 244.69845104135567
+
+epoch=1 crossentropy(validation): 244.8500672948352
+
+epoch=1 crossentropy(validation): 244.0838222760889
+
+epoch=1 crossentropy(validation): 243.91977267355327
+
+epoch=1 crossentropy(validation): 243.50302644241376
+
+epoch=1 crossentropy(validation): 243.47772470355778
+
+epoch=1 crossentropy(validation): 243.90111132912244
+
+epoch=1 crossentropy(validation): 243.92358925203152
+
+epoch=1 crossentropy(validation): 245.27225648400784
+
+epoch=1 crossentropy(validation): 245.44298141317867
+
+epoch=1 crossentropy(validation): 245.41415307347958
+
+epoch=1 crossentropy(validation): 245.39558231347763
+
+epoch=1 crossentropy(validation): 245.47400920126097
+
+epoch=1 crossentropy(validation): 245.40772088399947
+
+epoch=1 crossentropy(validation): 245.48679273501824
+
+epoch=1 crossentropy(validation): 245.16530374946677
+
+epoch=1 crossentropy(validation): 246.75232998378874
+
+epoch=1 crossentropy(validation): 246.6368001580298
+
+epoch=1 crossentropy(validation): 246.63835660511324
+
+epoch=1 crossentropy(validation): 246.5503969393104
+
+epoch=1 crossentropy(validation): 246.36880004113848
+
+epoch=1 crossentropy(validation): 246.34111511766264
+
+epoch=1 crossentropy(validation): 245.85324305006762
+
+epoch=1 crossentropy(validation): 246.56565919204152
+
+epoch=1 crossentropy(validation): 246.37719505668844
+
+epoch=1 crossentropy(validation): 247.6459360068241
+
+epoch=1 crossentropy(validation): 247.34440014932764
+
+epoch=1 crossentropy(validation): 247.87862427552673
+
+epoch=1 crossentropy(validation): 247.57842050000977
+
+epoch=1 crossentropy(validation): 247.38639450414493
+
+epoch=1 crossentropy(validation): 247.13466726359914
+
+epoch=1 crossentropy(validation): 247.0299132282109
+
+epoch=1 crossentropy(validation): 247.07401683636814
+
+epoch=1 crossentropy(validation): 248.09571296781337
+
+epoch=1 crossentropy(validation): 245.81076072977285
+
+epoch=1 crossentropy(validation): 245.78201386499197
+
+epoch=1 crossentropy(validation): 247.0194537123703
+
+epoch=1 crossentropy(validation): 247.67163836835826
+
+epoch=1 crossentropy(validation): 247.7691572985221
+
+epoch=1 crossentropy(validation): 247.80276373036617
+
+epoch=1 crossentropy(validation): 248.7334903202614
+
+epoch=1 crossentropy(validation): 248.6982383988384
+
+epoch=1 crossentropy(validation): 248.70295576496224
+
+epoch=1 crossentropy(validation): 248.61069522999298
+
+epoch=1 crossentropy(validation): 248.58345177359246
+
+epoch=1 crossentropy(validation): 248.75675570140004
+
+epoch=1 crossentropy(validation): 248.6761637147247
+
+epoch=1 crossentropy(validation): 249.04187794373905
+
+epoch=1 crossentropy(validation): 246.66700533131595
+
+epoch=1 crossentropy(validation): 246.6889946931893
+
+epoch=1 crossentropy(validation): 246.79234436041617
+
+epoch=1 crossentropy(validation): 246.85309548144662
+
+epoch=1 crossentropy(validation): 247.867997594613
+
+epoch=1 crossentropy(validation): 248.14563835330875
+
+epoch=1 crossentropy(validation): 248.1453107171967
+
+epoch=1 crossentropy(validation): 248.32532051135718
+
+epoch=1 crossentropy(validation): 248.3339177166278
+
+epoch=1 crossentropy(validation): 249.47165343598022
+
+epoch=1 crossentropy(validation): 249.09575442296128
+
+epoch=1 crossentropy(validation): 248.95280732486978
+
+epoch=1 crossentropy(validation): 248.83876889246181
+
+epoch=1 crossentropy(validation): 249.74944281504463
+
+epoch=1 crossentropy(validation): 249.608365109313
+
+epoch=1 crossentropy(validation): 249.52173379205067
+
+epoch=1 crossentropy(validation): 249.61946575034438
+
+epoch=1 crossentropy(validation): 249.72380713994468
+
+epoch=1 crossentropy(validation): 249.6854168310004
+
+epoch=1 crossentropy(validation): 249.9164912281509
+
+epoch=1 crossentropy(validation): 249.83495993707527
+
+epoch=1 crossentropy(validation): 249.90451941819313
+
+epoch=1 crossentropy(validation): 250.49698289385444
+
+epoch=1 crossentropy(validation): 251.0086901384597
+
+epoch=1 crossentropy(validation): 252.2073173015025
+
+epoch=1 crossentropy(validation): 252.23977093215512
+
+epoch=1 crossentropy(validation): 252.6429916557412
+
+epoch=1 crossentropy(validation): 254.04193786334508
+
+epoch=1 crossentropy(validation): 254.1067642565499
+
+epoch=1 crossentropy(validation): 254.01886569495164
+
+epoch=1 crossentropy(validation): 255.23405727960682
+
+epoch=1 crossentropy(validation): 255.11858883620806
+
+epoch=1 crossentropy(validation): 255.6193492081229
+
+epoch=1 crossentropy(validation): 256.42934917783793
+
+epoch=1 crossentropy(validation): 256.38676137852855
+
+epoch=1 crossentropy(validation): 258.1380873918578
+
+epoch=1 crossentropy(validation): 257.9892383957604
+
+epoch=1 crossentropy(validation): 257.7315897995431
+
+epoch=1 crossentropy(validation): 257.8010342035536
+
+epoch=1 crossentropy(validation): 257.6119981229773
+
+epoch=1 crossentropy(validation): 257.5910092838251
+
+epoch=1 crossentropy(validation): 258.45346143104643
+
+epoch=1 crossentropy(validation): 258.1664826001254
+
+epoch=1 crossentropy(validation): 258.77340535317313
+
+epoch=1 crossentropy(validation): 258.7990666676609
+
+epoch=1 crossentropy(validation): 258.7307257599404
+
+epoch=1 crossentropy(validation): 258.55467455454186
+
+epoch=1 crossentropy(validation): 258.5132806335241
+
+epoch=1 crossentropy(validation): 258.4749400339724
+
+epoch=1 crossentropy(validation): 258.35607093498703
+
+epoch=1 crossentropy(validation): 257.2608974507508
+
+epoch=1 crossentropy(validation): 257.43392093799537
+
+epoch=1 crossentropy(validation): 257.0391358091696
+
+epoch=1 crossentropy(validation): 258.6621013264343
+
+epoch=1 crossentropy(validation): 256.1755805832209
+
+epoch=1 crossentropy(validation): 253.7904824905275
+
+epoch=1 crossentropy(validation): 253.69967931785357
+
+epoch=1 crossentropy(validation): 253.62288512669838
+
+epoch=1 crossentropy(validation): 253.63319360799224
+
+epoch=1 crossentropy(validation): 253.6129051445544
+
+epoch=1 crossentropy(validation): 253.3642251072655
+
+epoch=1 crossentropy(validation): 253.07770340233742
+
+epoch=1 crossentropy(validation): 252.83383076416197
+
+epoch=1 crossentropy(validation): 252.76280255101875
+
+epoch=1 crossentropy(validation): 246.45350439709466
+
+epoch=1 crossentropy(validation): 245.5572948134022
+
+epoch=1 crossentropy(validation): 245.51361085428707
+
+epoch=1 crossentropy(validation): 245.51446219442798
+
+epoch=1 crossentropy(validation): 243.41878035049106
+
+epoch=1 crossentropy(validation): 244.0528949540997
+
+epoch=1 crossentropy(validation): 244.05579543934354
+
+epoch=1 crossentropy(validation): 244.75053676646948
+
+epoch=1 crossentropy(validation): 244.70878763655261
+
+epoch=1 crossentropy(validation): 244.66791280849557
+
+epoch=1 crossentropy(validation): 244.66512254452064
+
+epoch=1 crossentropy(validation): 245.6352771154294
+
+epoch=1 crossentropy(validation): 245.55548374830036
+
+epoch=1 crossentropy(validation): 246.4848172555861
+
+epoch=1 crossentropy(validation): 246.4606609372924
+
+epoch=1 crossentropy(validation): 244.57580755239104
+
+epoch=1 crossentropy(validation): 245.85842456151087
+
+epoch=1 crossentropy(validation): 245.86121501592842
+
+epoch=1 crossentropy(validation): 246.57654193491678
+
+epoch=1 crossentropy(validation): 245.7883760464816
+
+epoch=1 crossentropy(validation): 245.76590222517746
+
+epoch=1 crossentropy(validation): 245.84135397160858
+
+epoch=1 crossentropy(validation): 245.8007863938814
+
+epoch=1 crossentropy(validation): 245.7738937394589
+
+epoch=1 crossentropy(validation): 245.76412701641146
+
+epoch=1 crossentropy(validation): 246.1442953505519
+
+epoch=1 crossentropy(validation): 245.89735456452337
+
+epoch=1 crossentropy(validation): 245.85504089750094
+
+epoch=1 crossentropy(validation): 245.79354950024458
+
+epoch=1 crossentropy(validation): 245.7947426681193
+
+epoch=1 crossentropy(validation): 246.40000698330772
+
+epoch=1 crossentropy(validation): 246.35716129560467
+
+epoch=1 crossentropy(validation): 246.3366356826456
+
+epoch=1 crossentropy(validation): 246.69810795745238
+
+epoch=1 crossentropy(validation): 246.6489370801767
+
+epoch=1 crossentropy(validation): 246.61379342131352
+
+epoch=1 crossentropy(validation): 246.574454112429
+
+epoch=1 crossentropy(validation): 246.54028469321838
+
+epoch=1 crossentropy(validation): 246.54816323394775
+
+epoch=1 crossentropy(validation): 246.72815133154663
+
+epoch=1 crossentropy(validation): 247.0905753777203
+
+epoch=1 crossentropy(validation): 247.0920377086069
+
+epoch=1 crossentropy(validation): 247.47000174421865
+
+epoch=1 crossentropy(validation): 247.53199224883738
+
+epoch=1 crossentropy(validation): 247.5133310169874
+
+epoch=1 crossentropy(validation): 248.26788309278803
+
+epoch=1 crossentropy(validation): 248.26290901371559
+
+epoch=1 crossentropy(validation): 249.5938819968759
+
+epoch=1 crossentropy(validation): 249.58999390893302
+
+epoch=1 crossentropy(validation): 249.5590732227839
+
+epoch=1 crossentropy(validation): 249.54761221395552
+
+epoch=1 crossentropy(validation): 249.92746727573294
+
+epoch=1 crossentropy(validation): 249.91528449590245
+
+epoch=1 crossentropy(validation): 249.91323152978254
+
+epoch=1 crossentropy(validation): 250.93427182303836
+
+epoch=1 crossentropy(validation): 251.17589432615253
+
+epoch=1 crossentropy(validation): 251.52162320425347
+
+epoch=1 crossentropy(validation): 251.50082131217408
+
+epoch=1 crossentropy(validation): 251.82611949781057
+
+epoch=1 crossentropy(validation): 251.7855731663463
+
+epoch=1 crossentropy(validation): 251.5392973391463
+
+epoch=1 crossentropy(validation): 251.4844626452575
+
+epoch=1 crossentropy(validation): 251.7381920282751
+
+epoch=1 crossentropy(validation): 251.70046952418824
+
+epoch=1 crossentropy(validation): 251.57130768023134
+
+epoch=1 crossentropy(validation): 251.5931066016063
+
+epoch=1 crossentropy(validation): 251.53735036532487
+
+epoch=1 crossentropy(validation): 251.49734353120272
+
+epoch=1 crossentropy(validation): 251.45786244302525
+
+epoch=1 crossentropy(validation): 251.44052166462163
+
+epoch=1 crossentropy(validation): 251.43401378368486
+
+epoch=1 crossentropy(validation): 253.29583205884396
+
+epoch=1 crossentropy(validation): 253.50369463974766
+
+epoch=1 crossentropy(validation): 253.04680281358054
+
+epoch=1 crossentropy(validation): 253.3790182887942
+
+epoch=1 crossentropy(validation): 253.38431038425762
+
+epoch=1 crossentropy(validation): 253.343177014288
+
+epoch=1 crossentropy(validation): 253.30595312575457
+
+epoch=1 crossentropy(validation): 253.70689908323584
+
+epoch=1 crossentropy(validation): 253.5119660945369
+
+epoch=1 crossentropy(validation): 254.10556082905217
+
+epoch=1 crossentropy(validation): 254.06849521280347
+
+epoch=1 crossentropy(validation): 254.03366759327258
+
+epoch=1 crossentropy(validation): 254.9668872221342
+
+epoch=1 crossentropy(validation): 254.9328645611634
+
+epoch=1 crossentropy(validation): 254.92221254157835
+
+epoch=1 crossentropy(validation): 255.2391622089752
+
+epoch=1 crossentropy(validation): 255.04973733079805
+
+epoch=1 crossentropy(validation): 255.0407063677193
+
+epoch=1 crossentropy(validation): 255.0569162629404
+
+epoch=1 crossentropy(validation): 255.02792186896195
+
+epoch=1 crossentropy(validation): 254.96574828608863
+
+epoch=1 crossentropy(validation): 254.93377635903994
+
+epoch=1 crossentropy(validation): 254.50998387742558
+
+epoch=1 crossentropy(validation): 254.4641459750075
+
+epoch=1 crossentropy(validation): 254.42523216198578
+
+epoch=1 crossentropy(validation): 255.77401450266171
+
+epoch=1 crossentropy(validation): 255.78788605612877
+
+epoch=1 crossentropy(validation): 255.78037665960932
+
+epoch=1 crossentropy(validation): 256.89382910037074
+
+epoch=1 crossentropy(validation): 256.8614280114169
+
+epoch=1 crossentropy(validation): 256.8361898590223
+
+epoch=1 crossentropy(validation): 256.78744525388794
+
+epoch=1 crossentropy(validation): 256.67629786026083
+
+epoch=1 crossentropy(validation): 256.67305367162294
+
+epoch=2 crossentropy(validation): 256.6490677994201
+
+epoch=2 crossentropy(validation): 257.2315101282067
+
+epoch=2 crossentropy(validation): 257.1352738232742
+
+epoch=2 crossentropy(validation): 257.13195330999594
+
+epoch=2 crossentropy(validation): 257.09943997559077
+
+epoch=2 crossentropy(validation): 257.0748583623875
+
+epoch=2 crossentropy(validation): 257.14049528335505
+
+epoch=2 crossentropy(validation): 256.9006668319548
+
+epoch=2 crossentropy(validation): 256.89722826200693
+
+epoch=2 crossentropy(validation): 256.89593474644755
+
+epoch=2 crossentropy(validation): 256.8989486343481
+
+epoch=2 crossentropy(validation): 256.8647928115549
+
+epoch=2 crossentropy(validation): 256.7496184269423
+
+epoch=2 crossentropy(validation): 256.7214763602374
+
+epoch=2 crossentropy(validation): 256.6805242860224
+
+epoch=2 crossentropy(validation): 256.6535003543429
+
+epoch=2 crossentropy(validation): 257.052742479876
+
+epoch=2 crossentropy(validation): 257.20812710706804
+
+epoch=2 crossentropy(validation): 257.1898375004988
+
+epoch=2 crossentropy(validation): 258.1809999298983
+
+epoch=2 crossentropy(validation): 258.1564023895754
+
+epoch=2 crossentropy(validation): 258.13785779191704
+
+epoch=2 crossentropy(validation): 258.06103627809114
+
+epoch=2 crossentropy(validation): 258.079102326156
+
+epoch=2 crossentropy(validation): 258.0420096216571
+
+epoch=2 crossentropy(validation): 258.43910841339124
+
+epoch=2 crossentropy(validation): 258.4120108276404
+
+epoch=2 crossentropy(validation): 258.34221530630424
+
+epoch=2 crossentropy(validation): 258.29475894304204
+
+epoch=2 crossentropy(validation): 257.7369933372875
+
+epoch=2 crossentropy(validation): 257.75172739634223
+
+epoch=2 crossentropy(validation): 258.6169163683026
+
+epoch=2 crossentropy(validation): 258.47792924307845
+
+epoch=2 crossentropy(validation): 258.4995349558548
+
+epoch=2 crossentropy(validation): 258.4647621428706
+
+epoch=2 crossentropy(validation): 258.4402552934164
+
+epoch=2 crossentropy(validation): 257.0911021194138
+
+epoch=2 crossentropy(validation): 257.2212547941469
+
+epoch=2 crossentropy(validation): 257.23884116206506
+
+epoch=2 crossentropy(validation): 257.72626649132394
+
+epoch=2 crossentropy(validation): 257.68287016190044
+
+epoch=2 crossentropy(validation): 257.59762235917026
+
+epoch=2 crossentropy(validation): 257.992715064617
+
+epoch=2 crossentropy(validation): 257.968016446823
+
+epoch=2 crossentropy(validation): 258.26623708863497
+
+epoch=2 crossentropy(validation): 258.22474921755463
+
+epoch=2 crossentropy(validation): 258.2223543561241
+
+epoch=2 crossentropy(validation): 257.8893228597275
+
+epoch=2 crossentropy(validation): 258.5438687420741
+
+epoch=2 crossentropy(validation): 258.51816587836475
+
+epoch=2 crossentropy(validation): 259.338526951597
+
+epoch=2 crossentropy(validation): 259.89185322892007
+
+epoch=2 crossentropy(validation): 259.9110180840425
+
+epoch=2 crossentropy(validation): 259.8800602721679
+
+epoch=2 crossentropy(validation): 260.5088857817872
+
+epoch=2 crossentropy(validation): 255.71926410193296
+
+epoch=2 crossentropy(validation): 255.73008984523355
+
+epoch=2 crossentropy(validation): 255.7080717055763
+
+epoch=2 crossentropy(validation): 256.86794277258537
+
+epoch=2 crossentropy(validation): 256.921819806358
+
+epoch=2 crossentropy(validation): 257.0715464992177
+
+epoch=2 crossentropy(validation): 257.28612295321636
+
+epoch=2 crossentropy(validation): 257.0993408029489
+
+epoch=2 crossentropy(validation): 257.07484520394314
+
+epoch=2 crossentropy(validation): 256.99284548185733
+
+epoch=2 crossentropy(validation): 256.98803272132994
+
+epoch=2 crossentropy(validation): 256.9935170896288
+
+epoch=2 crossentropy(validation): 256.98950760180514
+
+epoch=2 crossentropy(validation): 256.9893001001574
+
+epoch=2 crossentropy(validation): 256.9761593250359
+
+epoch=2 crossentropy(validation): 257.30570841130753
+
+epoch=2 crossentropy(validation): 257.2772443690111
+
+epoch=2 crossentropy(validation): 257.2546475646791
+
+epoch=2 crossentropy(validation): 257.06665358679754
+
+epoch=2 crossentropy(validation): 257.0407955296104
+
+epoch=2 crossentropy(validation): 257.0158607846772
+
+epoch=2 crossentropy(validation): 256.9816878033461
+
+epoch=2 crossentropy(validation): 257.2202220334308
+
+epoch=2 crossentropy(validation): 257.5161435365762
+
+epoch=2 crossentropy(validation): 257.4942694932465
+
+epoch=2 crossentropy(validation): 257.48736369531537
+
+epoch=2 crossentropy(validation): 257.34742904034596
+
+epoch=2 crossentropy(validation): 257.32523498655274
+
+epoch=2 crossentropy(validation): 257.3030997573002
+
+epoch=2 crossentropy(validation): 257.3037948086658
+
+epoch=2 crossentropy(validation): 257.3053003630344
+
+epoch=2 crossentropy(validation): 257.2685014273668
+
+epoch=2 crossentropy(validation): 257.1808341160277
+
+epoch=2 crossentropy(validation): 258.04081942073776
+
+epoch=2 crossentropy(validation): 258.01905837924465
+
+epoch=2 crossentropy(validation): 257.99981920681455
+
+epoch=2 crossentropy(validation): 257.9971775629433
+
+epoch=2 crossentropy(validation): 257.9813719540855
+
+epoch=2 crossentropy(validation): 258.53063203138305
+
+epoch=2 crossentropy(validation): 258.50439597444733
+
+epoch=2 crossentropy(validation): 258.45949252520336
+
+epoch=2 crossentropy(validation): 258.41471786676453
+
+epoch=2 crossentropy(validation): 258.3820621947093
+
+epoch=2 crossentropy(validation): 258.3391435514126
+
+epoch=2 crossentropy(validation): 258.2991387286209
+
+epoch=2 crossentropy(validation): 258.72034586906955
+
+epoch=2 crossentropy(validation): 256.99284669045517
+
+epoch=2 crossentropy(validation): 257.38302685416613
+
+epoch=2 crossentropy(validation): 257.35984730823657
+
+epoch=2 crossentropy(validation): 257.31993239004373
+
+epoch=2 crossentropy(validation): 257.31630392407556
+
+epoch=2 crossentropy(validation): 257.29490451214207
+
+epoch=2 crossentropy(validation): 257.6146952923741
+
+epoch=2 crossentropy(validation): 257.609742965485
+
+epoch=2 crossentropy(validation): 257.54741600477485
+
+epoch=2 crossentropy(validation): 257.9882990247811
+
+epoch=2 crossentropy(validation): 257.36584100130847
+
+epoch=2 crossentropy(validation): 257.2485541566285
+
+epoch=2 crossentropy(validation): 256.80987822082443
+
+epoch=2 crossentropy(validation): 256.6962457656135
+
+epoch=2 crossentropy(validation): 256.73927116018587
+
+epoch=2 crossentropy(validation): 256.73346546539216
+
+epoch=2 crossentropy(validation): 256.7138470695462
+
+epoch=2 crossentropy(validation): 256.6976010109175
+
+epoch=2 crossentropy(validation): 256.3029169761258
+
+epoch=2 crossentropy(validation): 256.68925383873244
+
+epoch=2 crossentropy(validation): 256.67669991679674
+
+epoch=2 crossentropy(validation): 256.6554679332505
+
+epoch=2 crossentropy(validation): 256.6030204493967
+
+epoch=2 crossentropy(validation): 256.59784349278584
+
+epoch=2 crossentropy(validation): 256.57884078263214
+
+epoch=2 crossentropy(validation): 256.5625636510861
+
+epoch=2 crossentropy(validation): 256.6000874195092
+
+epoch=2 crossentropy(validation): 257.0797505767321
+
+epoch=2 crossentropy(validation): 257.05828628813504
+
+epoch=2 crossentropy(validation): 256.99174303619657
+
+epoch=2 crossentropy(validation): 256.9793400576515
+
+epoch=2 crossentropy(validation): 257.3834836703276
+
+epoch=2 crossentropy(validation): 257.18420269800356
+
+epoch=2 crossentropy(validation): 257.8168713442117
+
+epoch=2 crossentropy(validation): 257.7582170051799
+
+epoch=2 crossentropy(validation): 257.770164576353
+
+epoch=2 crossentropy(validation): 257.7529335046906
+
+epoch=2 crossentropy(validation): 257.8515528032281
+
+epoch=2 crossentropy(validation): 258.07955419233343
+
+epoch=2 crossentropy(validation): 258.0731996557825
+
+epoch=2 crossentropy(validation): 258.0680091829645
+
+epoch=2 crossentropy(validation): 258.024438680323
+
+epoch=2 crossentropy(validation): 258.3928462272382
+
+epoch=2 crossentropy(validation): 258.35188408958254
+
+epoch=2 crossentropy(validation): 258.04006134685284
+
+epoch=2 crossentropy(validation): 258.11466346800097
+
+epoch=2 crossentropy(validation): 257.74752967015337
+
+epoch=2 crossentropy(validation): 257.73198528334814
+
+epoch=2 crossentropy(validation): 257.66151983083597
+
+epoch=2 crossentropy(validation): 257.66862997487516
+
+epoch=2 crossentropy(validation): 259.0485016890113
+
+epoch=2 crossentropy(validation): 259.01164305269526
+
+epoch=2 crossentropy(validation): 256.3905995531952
+
+epoch=2 crossentropy(validation): 256.3760691973026
+
+epoch=2 crossentropy(validation): 256.54289372875735
+
+epoch=2 crossentropy(validation): 256.5447332610036
+
+epoch=2 crossentropy(validation): 256.52642700890175
+
+epoch=2 crossentropy(validation): 256.5099780289171
+
+epoch=2 crossentropy(validation): 256.5532997346178
+
+epoch=2 crossentropy(validation): 254.00336534420808
+
+epoch=2 crossentropy(validation): 253.99144206539222
+
+epoch=2 crossentropy(validation): 253.96166353060994
+
+epoch=2 crossentropy(validation): 253.9507137556683
+
+epoch=2 crossentropy(validation): 253.93614405710824
+
+epoch=2 crossentropy(validation): 253.9281463061561
+
+epoch=2 crossentropy(validation): 253.9111066683167
+
+epoch=2 crossentropy(validation): 253.90221441370306
+
+epoch=2 crossentropy(validation): 253.87920825073303
+
+epoch=2 crossentropy(validation): 253.87071761199098
+
+epoch=2 crossentropy(validation): 253.90624080513354
+
+epoch=2 crossentropy(validation): 253.0354207239996
+
+epoch=2 crossentropy(validation): 253.01358966733264
+
+epoch=2 crossentropy(validation): 253.66224862044353
+
+epoch=2 crossentropy(validation): 253.64939820781368
+
+epoch=2 crossentropy(validation): 253.64147141543106
+
+epoch=2 crossentropy(validation): 253.63541704598288
+
+epoch=2 crossentropy(validation): 253.63148314844372
+
+epoch=2 crossentropy(validation): 253.62466588116308
+
+epoch=2 crossentropy(validation): 253.6192526199471
+
+epoch=2 crossentropy(validation): 253.6147575801182
+
+epoch=2 crossentropy(validation): 253.78279744513696
+
+epoch=2 crossentropy(validation): 253.76821849286625
+
+epoch=2 crossentropy(validation): 254.01694882818094
+
+epoch=2 crossentropy(validation): 253.98486943550307
+
+epoch=2 crossentropy(validation): 254.2237251958287
+
+epoch=2 crossentropy(validation): 254.5129057911499
+
+epoch=2 crossentropy(validation): 254.72116713471834
+
+epoch=2 crossentropy(validation): 255.26456885287072
+
+epoch=2 crossentropy(validation): 255.1874241774601
+
+epoch=2 crossentropy(validation): 255.19522115587105
+
+epoch=2 crossentropy(validation): 255.19490157081597
+
+epoch=2 crossentropy(validation): 255.19057954893668
+
+epoch=2 crossentropy(validation): 255.16004726899774
+
+epoch=2 crossentropy(validation): 255.2309258802162
+
+epoch=2 crossentropy(validation): 255.6063974647411
+
+epoch=2 crossentropy(validation): 255.7838125014977
+
+epoch=2 crossentropy(validation): 256.3987607299023
+
+epoch=2 crossentropy(validation): 256.39100117461055
+
+epoch=2 crossentropy(validation): 256.3303142707147
+
+epoch=2 crossentropy(validation): 256.3152179709518
+
+epoch=2 crossentropy(validation): 256.30955839897007
+
+epoch=2 crossentropy(validation): 256.3002611102063
+
+epoch=2 crossentropy(validation): 256.284076945745
+
+epoch=2 crossentropy(validation): 256.26079374085447
+
+epoch=2 crossentropy(validation): 256.2301681649193
+
+epoch=2 crossentropy(validation): 256.2011145536104
+
+epoch=2 crossentropy(validation): 256.66291726915324
+
+epoch=2 crossentropy(validation): 256.60922238625574
+
+epoch=2 crossentropy(validation): 256.27150591444905
+
+epoch=2 crossentropy(validation): 256.2204849277231
+
+epoch=2 crossentropy(validation): 256.1188943236228
+
+epoch=2 crossentropy(validation): 256.09352389536804
+
+epoch=2 crossentropy(validation): 256.0740419581988
+
+epoch=2 crossentropy(validation): 256.0683339257814
+
+epoch=2 crossentropy(validation): 255.9988141593891
+
+epoch=2 crossentropy(validation): 256.258575022985
+
+epoch=2 crossentropy(validation): 255.3928732933023
+
+epoch=2 crossentropy(validation): 256.17758499044163
+
+epoch=2 crossentropy(validation): 256.17251678200046
+
+epoch=2 crossentropy(validation): 256.16824361353594
+
+epoch=2 crossentropy(validation): 256.15481902141033
+
+epoch=2 crossentropy(validation): 256.4253461109766
+
+epoch=2 crossentropy(validation): 256.42107692875595
+
+epoch=2 crossentropy(validation): 256.40518571893915
+
+epoch=2 crossentropy(validation): 257.04983497470647
+
+epoch=2 crossentropy(validation): 257.0422405462801
+
+epoch=2 crossentropy(validation): 257.40724808259654
+
+epoch=2 crossentropy(validation): 257.3318757720019
+
+epoch=2 crossentropy(validation): 257.4460993474098
+
+epoch=2 crossentropy(validation): 257.434362691581
+
+epoch=2 crossentropy(validation): 257.5426338883016
+
+epoch=2 crossentropy(validation): 257.7645645649326
+
+epoch=2 crossentropy(validation): 257.8483139751029
+
+epoch=2 crossentropy(validation): 257.8437045237808
+
+epoch=2 crossentropy(validation): 257.8505137005402
+
+epoch=2 crossentropy(validation): 257.36180611640424
+
+epoch=2 crossentropy(validation): 257.3452138031556
+
+epoch=2 crossentropy(validation): 257.24485079419026
+
+epoch=2 crossentropy(validation): 257.3321730140641
+
+epoch=2 crossentropy(validation): 257.3243265217025
+
+epoch=2 crossentropy(validation): 257.314817546112
+
+epoch=2 crossentropy(validation): 257.31049942466785
+
+epoch=2 crossentropy(validation): 257.3075369113968
+
+epoch=2 crossentropy(validation): 257.4231763041639
+
+epoch=2 crossentropy(validation): 257.43528062676523
+
+epoch=2 crossentropy(validation): 257.57880748534683
+
+epoch=2 crossentropy(validation): 257.54488988791417
+
+epoch=2 crossentropy(validation): 257.52885439094473
+
+epoch=2 crossentropy(validation): 257.52103841344183
+
+epoch=2 crossentropy(validation): 257.7315856393945
+
+epoch=2 crossentropy(validation): 257.72234491232064
+
+epoch=2 crossentropy(validation): 257.717875212596
+
+epoch=2 crossentropy(validation): 257.6798262065693
+
+epoch=2 crossentropy(validation): 257.6715930963902
+
+epoch=2 crossentropy(validation): 258.70361732251143
+
+epoch=2 crossentropy(validation): 258.94774148840935
+
+epoch=2 crossentropy(validation): 258.9386056475821
+
+epoch=2 crossentropy(validation): 258.5234775633511
+
+epoch=2 crossentropy(validation): 258.7089638175958
+
+epoch=2 crossentropy(validation): 258.7040919475858
+
+epoch=2 crossentropy(validation): 258.9736947550713
+
+epoch=2 crossentropy(validation): 258.9572328852037
+
+epoch=2 crossentropy(validation): 259.9155114158998
+
+epoch=2 crossentropy(validation): 259.8996549167758
+
+epoch=2 crossentropy(validation): 259.89116801269194
+
+epoch=2 crossentropy(validation): 259.86379624890327
+
+epoch=2 crossentropy(validation): 259.85149866051097
+
+epoch=2 crossentropy(validation): 261.111313243376
+
+epoch=2 crossentropy(validation): 262.7937925785046
+
+epoch=2 crossentropy(validation): 262.62258008555244
+
+epoch=2 crossentropy(validation): 262.61326245888085
+
+epoch=2 crossentropy(validation): 262.9328735186448
+
+epoch=2 crossentropy(validation): 261.6485270915131
+
+epoch=2 crossentropy(validation): 261.62448599972527
+
+epoch=2 crossentropy(validation): 261.5962851324598
+
+epoch=2 crossentropy(validation): 261.50553210522423
+
+epoch=2 crossentropy(validation): 261.49395992931227
+
+epoch=2 crossentropy(validation): 262.5965110825606
+
+epoch=2 crossentropy(validation): 262.9062587893465
+
+epoch=2 crossentropy(validation): 262.8958949582641
+
+epoch=2 crossentropy(validation): 263.0235605157558
+
+epoch=2 crossentropy(validation): 262.9934117007159
+
+epoch=2 crossentropy(validation): 263.7413966125447
+
+epoch=2 crossentropy(validation): 263.73681940516
+
+epoch=2 crossentropy(validation): 263.70133043689634
+
+epoch=2 crossentropy(validation): 263.6981192593846
+
+epoch=2 crossentropy(validation): 264.2121412421183
+
+epoch=2 crossentropy(validation): 264.254658894399
+
+epoch=2 crossentropy(validation): 264.2394616056668
+
+epoch=2 crossentropy(validation): 264.87490501588235
+
+epoch=2 crossentropy(validation): 264.8318664310715
+
+epoch=2 crossentropy(validation): 264.804372794525
+
+epoch=2 crossentropy(validation): 265.126059631596
+
+epoch=2 crossentropy(validation): 264.9614928226661
+
+epoch=2 crossentropy(validation): 265.0133294768395
+
+epoch=2 crossentropy(validation): 262.7973814434053
+
+epoch=2 crossentropy(validation): 263.18371617714575
+
+epoch=2 crossentropy(validation): 263.53859906339824
+
+epoch=2 crossentropy(validation): 263.5153340150061
+
+epoch=2 crossentropy(validation): 263.50364943757523
+
+epoch=2 crossentropy(validation): 263.49296868658
+
+epoch=2 crossentropy(validation): 263.3825228016576
+
+epoch=2 crossentropy(validation): 263.02512144918956
+
+epoch=2 crossentropy(validation): 263.00134872958483
+
+epoch=2 crossentropy(validation): 263.0038504512176
+
+epoch=2 crossentropy(validation): 262.9874791508239
+
+epoch=2 crossentropy(validation): 262.97662759200887
+
+epoch=2 crossentropy(validation): 262.94915656350986
+
+epoch=2 crossentropy(validation): 262.90631606443816
+
+epoch=2 crossentropy(validation): 263.96241511140056
+
+epoch=2 crossentropy(validation): 264.058911055189
+
+epoch=2 crossentropy(validation): 264.20168487872144
+
+epoch=2 crossentropy(validation): 264.20133079251724
+
+epoch=2 crossentropy(validation): 263.7963530784975
+
+epoch=2 crossentropy(validation): 263.78512475235203
+
+epoch=2 crossentropy(validation): 264.66495424498646
+
+epoch=2 crossentropy(validation): 264.6287484290116
+
+epoch=2 crossentropy(validation): 264.4229488367346
+
+epoch=2 crossentropy(validation): 264.50151996493963
+
+epoch=2 crossentropy(validation): 264.48971539283843
+
+epoch=2 crossentropy(validation): 264.2738457270636
+
+epoch=2 crossentropy(validation): 265.24302755145004
+
+epoch=2 crossentropy(validation): 265.2262918195362
+
+epoch=2 crossentropy(validation): 265.2019384225873
+
+epoch=2 crossentropy(validation): 265.1913178879382
+
+epoch=2 crossentropy(validation): 265.147101524832
+
+epoch=2 crossentropy(validation): 265.1338720599551
+
+epoch=2 crossentropy(validation): 265.1165830284462
+
+epoch=2 crossentropy(validation): 265.298868225565
+
+epoch=2 crossentropy(validation): 265.29015101250434
+
+epoch=2 crossentropy(validation): 265.2519681693807
+
+epoch=2 crossentropy(validation): 265.23629316349286
+
+epoch=2 crossentropy(validation): 265.203947834459
+
+epoch=2 crossentropy(validation): 265.9303013279173
+
+epoch=2 crossentropy(validation): 266.14942756268334
+
+epoch=2 crossentropy(validation): 267.3393333983742
+
+epoch=2 crossentropy(validation): 267.3171835931939
+
+epoch=2 crossentropy(validation): 267.4119121636662
+
+epoch=2 crossentropy(validation): 267.3975772048287
+
+epoch=2 crossentropy(validation): 267.374713481165
+
+epoch=2 crossentropy(validation): 267.33665982991783
+
+epoch=2 crossentropy(validation): 267.3213116423173
+
+epoch=2 crossentropy(validation): 267.0750580013246
+
+epoch=2 crossentropy(validation): 267.05687014491457
+
+epoch=2 crossentropy(validation): 267.0405469019192
+
+epoch=2 crossentropy(validation): 267.03393441471337
+
+epoch=2 crossentropy(validation): 267.01889238485956
+
+epoch=2 crossentropy(validation): 267.63391348143045
+
+epoch=2 crossentropy(validation): 267.60350962726193
+
+epoch=2 crossentropy(validation): 267.5890307899304
+
+epoch=2 crossentropy(validation): 267.97676904607374
+
+epoch=2 crossentropy(validation): 267.9579633673915
+
+epoch=2 crossentropy(validation): 267.9460549178411
+
+epoch=2 crossentropy(validation): 268.3088974511557
+
+epoch=2 crossentropy(validation): 267.82100544250073
+
+epoch=2 crossentropy(validation): 267.9050036793667
+
+epoch=2 crossentropy(validation): 267.8853147839755
+
+epoch=2 crossentropy(validation): 267.8165869944137
+
+epoch=2 crossentropy(validation): 268.4221814840574
+
+epoch=2 crossentropy(validation): 268.3968832984743
+
+epoch=2 crossentropy(validation): 268.3870885329563
+
+epoch=2 crossentropy(validation): 268.96298832069914
+
+epoch=2 crossentropy(validation): 268.6969843465333
+
+epoch=2 crossentropy(validation): 268.6889174558431
+
+epoch=2 crossentropy(validation): 268.11069373637855
+
+epoch=2 crossentropy(validation): 268.096951408618
+
+epoch=2 crossentropy(validation): 268.03557331317836
+
+epoch=2 crossentropy(validation): 268.032500757175
+
+epoch=2 crossentropy(validation): 268.0147112148178
+
+epoch=2 crossentropy(validation): 267.9969782292678
+
+epoch=2 crossentropy(validation): 267.5741000878673
+
+epoch=2 crossentropy(validation): 267.56750432993385
+
+epoch=2 crossentropy(validation): 267.47999207805157
+
+epoch=2 crossentropy(validation): 266.87431074863906
+
+epoch=2 crossentropy(validation): 266.8475514957253
+
+epoch=2 crossentropy(validation): 266.80382561534935
+
+epoch=2 crossentropy(validation): 266.8289006561258
+
+epoch=2 crossentropy(validation): 267.46474512279576
+
+epoch=2 crossentropy(validation): 267.46009188913445
+
+epoch=2 crossentropy(validation): 267.6682921385381
+
+epoch=2 crossentropy(validation): 267.6616063038232
+
+epoch=2 crossentropy(validation): 267.647658340483
+
+epoch=2 crossentropy(validation): 267.6466658269104
+
+epoch=2 crossentropy(validation): 267.63941866936756
+
+epoch=2 crossentropy(validation): 267.6256812130028
+
+epoch=2 crossentropy(validation): 267.61395509528086
+
+epoch=2 crossentropy(validation): 269.3012517664953
+
+epoch=2 crossentropy(validation): 269.4610073772006
+
+epoch=2 crossentropy(validation): 269.4446657016753
+
+epoch=2 crossentropy(validation): 269.4189866578213
+
+epoch=2 crossentropy(validation): 269.5708816848096
+
+epoch=2 crossentropy(validation): 269.5339210747219
+
+epoch=2 crossentropy(validation): 269.5705019424838
+
+epoch=2 crossentropy(validation): 269.7445790510539
+
+epoch=2 crossentropy(validation): 269.8019958019062
+
+epoch=2 crossentropy(validation): 269.79522996935214
+
+epoch=2 crossentropy(validation): 269.804699199442
+
+epoch=2 crossentropy(validation): 270.011350279599
+
+epoch=2 crossentropy(validation): 270.1177550818389
+
+epoch=2 crossentropy(validation): 270.2244840713203
+
+epoch=2 crossentropy(validation): 270.3516727167288
+
+epoch=2 crossentropy(validation): 270.09748318042773
+
+epoch=2 crossentropy(validation): 270.08210905836427
+
+epoch=2 crossentropy(validation): 270.06513344600984
+
+epoch=2 crossentropy(validation): 270.05113644648907
+
+epoch=2 crossentropy(validation): 270.48170248719435
+
+epoch=2 crossentropy(validation): 270.0301256631166
+
+epoch=2 crossentropy(validation): 269.9887520544216
+
+epoch=2 crossentropy(validation): 270.0031339413809
+
+epoch=2 crossentropy(validation): 269.99032284625923
+
+epoch=2 crossentropy(validation): 269.6073901704078
+
+epoch=2 crossentropy(validation): 269.84775303975687
+
+epoch=2 crossentropy(validation): 269.55511600419163
+
+epoch=2 crossentropy(validation): 269.540786249534
+
+epoch=2 crossentropy(validation): 269.4502656038793
+
+epoch=2 crossentropy(validation): 269.4544404342966
+
+epoch=2 crossentropy(validation): 269.3950266102421
+
+epoch=2 crossentropy(validation): 269.3768174849241
+
+epoch=2 crossentropy(validation): 269.3656390339683
+
+epoch=2 crossentropy(validation): 269.35731425514354
+
+epoch=2 crossentropy(validation): 269.2918845170676
+
+epoch=2 crossentropy(validation): 269.2734850167322
+
+epoch=2 crossentropy(validation): 269.43520716490497
+
+epoch=2 crossentropy(validation): 269.41063081037834
+
+epoch=2 crossentropy(validation): 269.5010233472431
+
+epoch=2 crossentropy(validation): 269.4803335432548
+
+epoch=2 crossentropy(validation): 269.44068080075834
+
+epoch=2 crossentropy(validation): 269.4137365985842
+
+epoch=2 crossentropy(validation): 269.40219874767587
+
+epoch=2 crossentropy(validation): 269.50116831475475
+
+epoch=2 crossentropy(validation): 269.4509666760839
+
+epoch=2 crossentropy(validation): 269.43365108833035
+
+epoch=2 crossentropy(validation): 269.3755310638211
+
+epoch=2 crossentropy(validation): 269.36580179072354
+
+epoch=2 crossentropy(validation): 269.3567067725375
+
+epoch=2 crossentropy(validation): 269.0852882455368
+
+epoch=2 crossentropy(validation): 269.30793889622674
+
+epoch=2 crossentropy(validation): 269.2608690836891
+
+epoch=2 crossentropy(validation): 269.202107959731
+
+epoch=2 crossentropy(validation): 269.1235919434308
+
+epoch=2 crossentropy(validation): 269.1141404148741
+
+epoch=2 crossentropy(validation): 269.10574769146916
+
+epoch=2 crossentropy(validation): 268.6200437335061
+
+epoch=2 crossentropy(validation): 268.60405498830477
+
+epoch=2 crossentropy(validation): 268.5960962681018
+
+epoch=2 crossentropy(validation): 268.56021158781596
+
+epoch=2 crossentropy(validation): 268.49132259307333
+
+epoch=2 crossentropy(validation): 268.5589051063075
+
+epoch=2 crossentropy(validation): 268.7693499961463
+
+epoch=2 crossentropy(validation): 268.73544033054617
+
+epoch=2 crossentropy(validation): 268.7019534634267
+
+epoch=2 crossentropy(validation): 268.69377931961793
+
+epoch=2 crossentropy(validation): 266.7306191028996
+
+epoch=2 crossentropy(validation): 266.71422995614563
+
+epoch=2 crossentropy(validation): 266.93401430803533
+
+epoch=2 crossentropy(validation): 267.1541848187478
+
+epoch=2 crossentropy(validation): 268.4438046066842
+
+epoch=2 crossentropy(validation): 268.4331875991849
+
+epoch=2 crossentropy(validation): 268.366611846864
+
+epoch=2 crossentropy(validation): 268.4662453504477
+
+epoch=2 crossentropy(validation): 268.1538079851752
+
+epoch=2 crossentropy(validation): 268.3364127305968
+
+epoch=2 crossentropy(validation): 269.20000117695594
+
+epoch=2 crossentropy(validation): 269.6797734751158
+
+epoch=2 crossentropy(validation): 269.8385045097185
+
+epoch=2 crossentropy(validation): 269.82780288926324
+
+epoch=2 crossentropy(validation): 269.83618130908513
+
+epoch=2 crossentropy(validation): 270.0340370191676
+
+epoch=2 crossentropy(validation): 270.02782468977074
+
+epoch=2 crossentropy(validation): 266.74795784725325
+
+epoch=2 crossentropy(validation): 266.74218520224184
+
+epoch=2 crossentropy(validation): 266.7676398034068
+
+epoch=2 crossentropy(validation): 266.8217439273336
+
+epoch=2 crossentropy(validation): 266.8057693914181
+
+epoch=2 crossentropy(validation): 266.79167234070553
+
+epoch=2 crossentropy(validation): 264.79787154694486
+
+epoch=2 crossentropy(validation): 265.01403763500866
+
+epoch=2 crossentropy(validation): 265.2911057867396
+
+epoch=2 crossentropy(validation): 265.4623532452832
+
+epoch=2 crossentropy(validation): 265.45614902529746
+
+epoch=2 crossentropy(validation): 265.4492045007709
+
+epoch=2 crossentropy(validation): 265.56668920433214
+
+epoch=2 crossentropy(validation): 265.5555028413529
+
+epoch=2 crossentropy(validation): 265.5497358866006
+
+epoch=2 crossentropy(validation): 265.5249151891652
+
+epoch=2 crossentropy(validation): 265.63685935067934
+
+epoch=2 crossentropy(validation): 265.7006761661515
+
+epoch=2 crossentropy(validation): 266.0391181570682
+
+epoch=2 crossentropy(validation): 266.1539917110967
+
+epoch=2 crossentropy(validation): 266.1600628559431
+
+epoch=2 crossentropy(validation): 267.1698710672983
+
+epoch=2 crossentropy(validation): 267.2997432147835
+
+epoch=2 crossentropy(validation): 267.12090486528274
+
+epoch=2 crossentropy(validation): 267.0379131602422
+
+epoch=2 crossentropy(validation): 267.25173176389677
+
+epoch=2 crossentropy(validation): 267.2458944957115
+
+epoch=2 crossentropy(validation): 265.74173226805
+
+epoch=2 crossentropy(validation): 265.74219170188223
+
+epoch=2 crossentropy(validation): 265.7373112471066
+
